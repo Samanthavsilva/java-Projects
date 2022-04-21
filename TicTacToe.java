@@ -72,13 +72,11 @@ public class TicTacToe {
 			System.out.println();
 		}
 
-		// COMPLETE THIS METHOD
 	}
 
 	// Given a board, a player, and a position (i, j), try to place a piece at that position.
 	// If the move was successfully made, return true. Otherwise, return false.
 	public static boolean makeMove(char[][] board, char player, int i, int j) {
-		// COMPLETE THIS METHOD
 	
 		//out of bounds
 		if (i < 0 || i >= board.length){
@@ -108,9 +106,7 @@ public class TicTacToe {
 			//odd
 			return 'o';
 		}
-		// COMPLETE THIS METHOD
 
-		//return '1';
 	}
 
 }
