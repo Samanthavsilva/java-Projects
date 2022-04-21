@@ -1,6 +1,4 @@
-/*
-YOUR FILE HEADER HERE
-*/
+
 
 import java.util.Scanner;
 
