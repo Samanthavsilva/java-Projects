@@ -28,7 +28,6 @@ public class Dungeon {
         int [][] dungeon = generateRandomDungeon();
         int row = 0;
         int col = 0;
-        boolean [][] deezNuts = new boolean [row][col];
         System.out.println("Oh no! A dragon is killing our sheep and scaring our villagers, please help the knight put a stop to this nightmare!");
         System.out.println("You are in a cell");
         // the variables that we will utilize throughtout are declared 
